@@ -9,3 +9,6 @@ Play Here: https://somyagoyal09.github.io/Simon_Game/
 - Level progression system
 - Game over detection
 - Memory-based gameplay
+## Preview
+![SIMON GAME SCREENSHOT]
+
